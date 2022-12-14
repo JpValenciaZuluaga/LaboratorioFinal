@@ -1,0 +1,4 @@
+{ vel: 4000 ;freq: 40 ;vol: 40 ;temp: 58 ;tiempo: 3 h }
+
+
+

@@ -1,0 +1,1 @@
+{Tv: 10 ;Tf: 15 ; Tvolt: 20 ; Tt: 25 ;vel_ref: 1800 ;freq_ref: 60 ;volt_ref: 220 ;temp_ref: 60 }
